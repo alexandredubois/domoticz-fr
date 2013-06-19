@@ -427,22 +427,20 @@
 	"Motion + Tamper": "Motion + Tamper",
 	"No Motion + Tamper": "No Motion + Tamper",
 	
-	"Comfortable": "Comfortable",
-	"Dry": "Dry",
-	"Wet": "Wet",
-	"Prediction": "Prediction",
-	"No Info": "No Info",
-	"Sunny": "Sunny",
-	"Partly Cloudy": "Partly Cloudy",
-	"Cloudy": "Cloudy",
-	"Heavy Snow": "Heavy Snow",
-	"Snow": "Snow",
-	"Heavy Rain": "Heavy Rain",
-	"Some Clouds": "Some Clouds",
+	"Comfortable": "Confortable",
+	"Dry": "Sec",
+	"Wet": "Humide",
+	"Prediction": "Prédiction",
+	"No Info": "Pas d'informations",
+	"Sunny": "Ensoleillé",
+	"Partly Cloudy": "Partiellement nuageux",
+	"Cloudy": "Nuageux",
+	"Heavy Snow": "Neige intense",
+	"Snow": "Neige",
+	"Heavy Rain": "Pluies fortes",
+	"Some Clouds": "Nuages éparses",
 
-	"Last Week": "Last Week",
-	"Last Month": "Last Month",
-	"Last Year": "Last Year"
-
-
+	"Last Week": "Semaine passée",
+	"Last Month": "Mois passé",
+	"Last Year": "Année passée"
 }
