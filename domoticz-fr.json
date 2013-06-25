@@ -153,8 +153,8 @@
 	
 	"Only possible between Sensors of the same kind!": "Seulement possible avec des capteurs du même type !",
 
-	"Manual Light/Switch": "Ajouter un nouveau luminaire/interrupteur manuellement",
-	"Learn Light/Switch": "Apprentissage d'un nouveau luminaire/interrupteur ",
+	"Manual Light/Switch": "Ajout manuel",
+	"Learn Light/Switch": "Détection auto",
 	"No Sub/Slave Device Selected!": "Aucun périphérique esclave n'a été sélectionné !",
 	"No Main Device Selected!": "Aucun périphérique principal n'a été sélectionné !",
 	"Problem deleting timer!": "Problème lors de la suppression de cette entrée !",
