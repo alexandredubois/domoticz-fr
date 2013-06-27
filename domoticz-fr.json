@@ -340,7 +340,7 @@
 	"Sub/Slave Device": "Périphérique esclave",
 	"Sub/Slave Devices": "Périphériques esclaves",
 	
-	"Last": "Dernier",
+	"Last": "sur les dernières",
 	"Day": "Jour",
 	"Week": "Semaine",
 	"Month": "Mois",
@@ -441,6 +441,6 @@
 	"Some Clouds": "Nuages éparses",
 
 	"Last Week": "Semaine passée",
-	"Last Month": "Mois passé",
-	"Last Year": "Année passée"
+	"Last Month": "sur les 30 derniers jours",
+	"Last Year": "sur l'année passée"
 }
