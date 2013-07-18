@@ -1,10 +1,10 @@
 {
 	"Dashboard": "Tableau de bord",
 	"Switches": "Interrupteurs",
-	"Scenes": "Scènes",
+	"Scenes": "Groupes",
 	"Temperature": "Température",
 	"Weather": "Météo",
-	"Utility": "Utilitaire",
+	"Utility": "Capteurs de mesure",
 	"Setup": "Configuration",
 	"Hardware": "Matériel",
 	"Devices": "Périphériques",
@@ -14,11 +14,11 @@
 	"Edit Users": "Modifier les utilisateurs",
 	"Send Notification": "Envoyer une notification",
 	"Log": "Log",
-	"Light/Switch Devices": "Luminaires et interrupteurs",
+	"Light/Switch Devices": "Lumières et interrupteurs",
 	"Temperature Sensors": "Capteurs de température",
 	"Weather Sensors": "Capteurs météo",
 	"Security Devices": "Périphériques de sécurité",
-	"Utility Sensors": "Périphériques utilitaires",
+	"Utility Sensors": "Capteurs de mesure",
 	"SunRise" : "Aube",
 	"SunSet" : "Crépuscule",
 
@@ -197,10 +197,10 @@
 	"User": "Utilisateur",
 	"Admin": "Administrateur",
 	
-	"Add Scene": "Créer une scène",
+	"Add Scene": "Créer un groupe",
 	"No Device Selected!": "Aucun périphérique n'a été sélectionné !",
 	"Problem adding Device!": "Problème lors de l'ajout du périphérique !",
-	"Are you sure to remove this Scene?": "Etes-vous sûr de vouloir supprimer cette scène ?",
+	"Are you sure to remove this Scene?": "Etes-vous sûr de vouloir supprimer ce groupe ?",
 	"Are you sure to delete ALL Devices?\n\nThis action can not be undone!": "Etes-vous sûr de vouloir supprimer tous les périphériques ?\n\nCette action est définitive et ne pourra pas être annulée !",
 	"Are you sure to delete this Device?\n\nThis action can not be undone...": "Etes-vous sûr de vouloir supprimer ce périphérique?\n\nCette action est définitive et ne pourra pas être annulée...",
 	
@@ -250,9 +250,9 @@
 	"ImageURL": "URL de l'image",
 	"When": "Quand",
 	"Delay": "Délai",
-	"Active Devices/Scenes": "Périphériques/Scènes actifs",
+	"Active Devices/Scenes": "Périphériques/Groupes actifs",
 	"(Select Camera first to Edit...)": "(Sélectionner une caméra pour pouvoir l'éditer...)",
-	"Device/Scene": "Périphérique/Scène",
+	"Device/Scene": "Périphérique/Groupe",
 	"(seconds, 0=no delay)": "(secondes, 0=instantané)",
 	"Take Snapshot": "Prendre une photo",
 	
@@ -313,7 +313,7 @@
 	"New Device": "Nouveau périphérique",
 	"Edit Device": "Editer le périphérique",
 	
-	"Rain": "Pluie",
+	"Rain": "Précipitations",
 	"UV": "UV",
 	"Wind": "Vent",
 	"Usage": "Utilisation",
@@ -361,7 +361,7 @@
 	"Violent storm": "Tempête violente",
 	"Hurricane": "Ouragan",
 	"Direction": "Direction",
-	"Gust": "Bourrasques",
+	"Gust": "Raffales",
 	"Rainfall": "Précipitations",
 	"Pressure": "Pression",
 	"Air Quality": "Qualité de l'air",
@@ -442,5 +442,10 @@
 
 	"Last Week": "Semaine passée",
 	"Last Month": "sur les 30 derniers jours",
-	"Last Year": "sur l'année passée"
+	"Last Year": "sur l'année passée",
+
+	"ON": "ON",
+	"OFF": "OFF",
+	"Percentage": "Pourcentage",
+	"Dew Point": "Point de rosée"
 }
