@@ -447,5 +447,8 @@
 	"ON": "ON",
 	"OFF": "OFF",
 	"Percentage": "Pourcentage",
-	"Dew Point": "Point de rosée"
+	"Dew Point": "Point de rosée",
+
+	"Update Available !... Update Now?": "Une mise à jour est disponible ! Voulez-vous l'appliquer maintenant ?",
+	"A new version of Domoticz is Available!...<br>Use the Setup tab to update.": "Une nouvelle version de Domoticz est disponible ! <br>Veuillez utiliser l'onglet configuration pour mettre à jour."
 }
