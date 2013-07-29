@@ -230,7 +230,7 @@
 	"Are you sure to delete this Hardware?\n\nThis action can not be undone...\nAll Devices attached will be removed!": "Etes vous sûr de vouloir supprimer cet appareil ?\n\nCette action ne peut-être annulée...\nTous les périphériques attachés à cet appareils seront également supprimés !",
 	
 	"Used": "Utilisés",
-	"Not Used": "Non utilisés",
+	"Not Used": "Inutilisés",
 	"All Devices": "Tous les périphériques",
 	"SubType": "Sous-type",
 	"Last Seen": "Vu",
