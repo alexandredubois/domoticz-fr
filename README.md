@@ -7,3 +7,4 @@ Le fil du forum (en anglais) dédié à cette traduction est disponible sur [le 
 * BARGUE Sarah
 * CHASSE Jean-François
 * DUBOIS Alexandre
+* HACQUARD Stéphane

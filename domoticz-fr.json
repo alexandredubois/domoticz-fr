@@ -450,5 +450,17 @@
 	"Dew Point": "Point de rosée",
 
 	"Update Available !... Update Now?": "Une mise à jour est disponible ! Voulez-vous l'appliquer maintenant ?",
-	"A new version of Domoticz is Available!...<br>Use the Setup tab to update.": "Une nouvelle version de Domoticz est disponible ! <br>Veuillez utiliser l'onglet configuration pour mettre à jour."
+	"A new version of Domoticz is Available!...<br>Use the Setup tab to update.": "Une nouvelle version de Domoticz est disponible ! <br>Veuillez utiliser l'onglet configuration pour mettre à jour.",
+	"No Lights/Switches found or added in the system...": "Pas de lumières / Interrupteurs trouvés ou ajoutés dans le système ...",
+	"No Scenes defined yet...": "Aucun groupe n'a été défini...",
+	"No Temperature sensors found or added in the system...": "Pas de capteurs de température trouvés ou ajoutés dans le système ...",
+	"No Weather sensors found or added in the system...": "Pas de capteurs météorologiques trouvés ou ajoutés dans le système ...",
+	"No Utility sensors found or added in the system...": "Pas de capteurs de mesure trouvés ou ajoutés dans le système ...",
+	"User Interface": "Interface utilisateur",
+	
+	"Temp": "Température",
+	"Chill": "Température ressentie",
+	
+	"SecurityPanel": "Panneau de sécurité",
+	"WRONG CODE": "CODE ERRONÉ"
 }
