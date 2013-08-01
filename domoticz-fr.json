@@ -462,5 +462,9 @@
 	"Chill": "Température ressentie",
 	
 	"SecurityPanel": "Panneau de sécurité",
-	"WRONG CODE": "CODE ERRONÉ"
+	"WRONG CODE": "CODE ERRONÉ",
+	"Scene": "Scène",
+    "Group": "Groupe",
+    "Browser Cache is being refreshed": "Cache du navigateur en cours d'actualisation",
+    "Please standby": "Veuillez patienter"
 }
