@@ -465,6 +465,18 @@
 	"WRONG CODE": "CODE ERRONÉ",
 	"Scene": "Scène",
     "Group": "Groupe",
-    "Browser Cache is being refreshed": "Cache du navigateur en cours d'actualisation",
-    "Please standby": "Veuillez patienter"
+    "Browser Cache is being refreshed": "Cache du browser en cours d'actualisation",
+    "Please standby": "Veuillez patienter",
+
+    "Incorrect Username/Password!": "Nom d'utilisateur / mot de passe Incorrecte!",
+    "To many login attempts!": "Tentatives de connexion trop nombreuses!",
+    "Login": "Connexion",
+    "Logout": "Déconnexion",
+    "Domoticz Offline": "Domoticz Hors ligne",
+
+    "Authentication": "Authentification",
+    "Login Page": "Login Page",
+    "Basic-Auth": "Basic-Auth",
+
+    "Wind Meter": "Anémomètre"
 }
