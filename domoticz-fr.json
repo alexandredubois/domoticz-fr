@@ -112,6 +112,8 @@
 	"Group On": "Group On",
 	"On": "On",
 	"Off": "Off",
+	"Daytime": "Journée",
+    "Nighttime": "Nuit",
 	
 	"No Update Available": "Aucune mise à jour n'est disponible",
 	"Error communicating to server!": "Erreur de communication avec le serveur",
@@ -478,5 +480,35 @@
     "Login Page": "Login Page",
     "Basic-Auth": "Basic-Auth",
 
-    "Wind Meter": "Anémomètre"
+    "Wind Meter": "Anémomètre",
+
+    "Device change not allowed!": "Changement de périphérique non autorisé!",
+    "Problem updating Device!": "Problème mise à jour de périphérique!",
+
+    "Report": "Report",
+    "January": "Janvier",
+    "February": "Février",
+    "March": "Mars",
+    "April": "Avril",
+    "May": "Mai",
+    "June": "Juin",
+    "July": "Juillet",
+    "August": "Août",
+    "September": "Septembre",
+    "October": "Octobre",
+    "November": "Novembre",
+    "December": "Décembre",
+
+    "TO1": "To",
+
+    "Restart System": "Redémarrer le système",
+    "Are you sure to Restart the system?": "Etes-vous sûr de redémarrer le système?",
+    "Restarting System (This could take some time...)": "Redémarrage du système (ce qui pourrait prendre un certain temps ...)",
+    "Shutdown System": "Arrêt du système",
+    "Are you sure to Shutdown the system?": "Etes-vous sûr d'arrêter le système?",
+    "The system is being Shutdown (This could take some time...)": "Le système est en cours d'arrêt (Cela peut prendre un certain temps ...)",
+
+    "Release Channel": "Release Channel",
+    "Stable": "Stable",
+    "Beta": "Beta"
 }
