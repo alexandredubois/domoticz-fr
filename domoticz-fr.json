@@ -1,8 +1,8 @@
 {
 	"Dashboard": "Tableau de bord",
 	"Switches": "Interrupteurs",
-	"Scenes": "Groupes",
-	"Temperature": "Température",
+	"Scenes": "Groupes & Scènes",
+	"Temperature": "Températures",
 	"Weather": "Météo",
 	"Utility": "Capteurs de mesure",
 	"Setup": "Configuration",
@@ -18,7 +18,7 @@
 	"Temperature Sensors": "Capteurs de température",
 	"Weather Sensors": "Capteurs météo",
 	"Security Devices": "Périphériques de sécurité",
-	"Utility Sensors": "Capteurs de mesure",
+	"Utility Sensors": "Consommations",
 	"SunRise" : "Aube",
 	"SunSet" : "Crépuscule",
 
